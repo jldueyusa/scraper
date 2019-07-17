@@ -25,7 +25,7 @@ app.engine("handlebars", exphbs({defaultLayout: "main"})
 app.set("view-engine", "handlebars");
 
 //set up mongoose database connection
-mongoose.connect("mongodb: //localhost/All-the-News-That-s-Fit-to-Scrape");
+mongoose.connect("mongodb: //localhost/scraper", { useNewUrlParser: true });
 var db = mongoose.connection;
 
 db.on("error", console.error.bind(console, "connection error: "));
