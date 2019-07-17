@@ -1,20 +1,16 @@
 var mongoose = require("mongoose");
 
 var Schema = mongoose.Schema;
-var ArticleSchema = new Schema({
-    title: {
-        type: String,
-        required: true
+var CommentSchema = new Schema({
+    name: {
+        type: String
     },
-    link: {
+    body: {
         type: String,
         require: true
     },
-    comment:[{
-        type: Schema.Types.ObjectId,
-        ref: "Comment"
-    }]
-})
+    
+});
 
-var Article = mongoose.model("Article", ArticleSchema);
-module.exports = Article;
+var Comment = mongoose.model("Comment", CommentSchema);
+module.exports = Comment;
