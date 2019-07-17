@@ -6,7 +6,7 @@ var ArticleSchema = new Schema({
         type: String,
         required: true
     },
-    link {
+    link: {
         type: String,
         require: true
     },
@@ -15,3 +15,6 @@ var ArticleSchema = new Schema({
         ref: "Comment"
     }]
 })
+
+var Article = mongoose.model("Article", ArticleSchema);
+module.exports = Article;
