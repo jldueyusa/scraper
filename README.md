@@ -19,7 +19,7 @@ To view a play by play instructional video by clicking the link below
 
 1. In the local host or from the Heroku link [(Click Here for Heroku Link)](https://drive.google.com/file/d/1GmMf14A9U_YRc-xdTKR0KxMl_UTqqogj/view), locate to the "Scrape" button in the upper right hand corner of the navigation bar to get a list of articles
 
-![conert this](https://github.com/jldueyusa/liri-node-app/blob/master/images/concert_this.png)
+![scraper Inst 1](https://github.com/jldueyusa/scraper/blob/master/public/assets/scrape1.png)
 
 
 2. Select and article you would like to read and click on the "Read Article" button
