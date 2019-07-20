@@ -1,4 +1,4 @@
-# liri-node-app
+# Welcome to Bamazon <img src="https://github.com/jldueyusa/bamazon/blob/master/assets/bam.png" width="150" height="100"># liri-node-app
 It's like Siri...but not
 ### Created by: Jennifer Duey
 
