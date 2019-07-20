@@ -17,7 +17,7 @@ To view a play by play instructional video by clicking the link below
 
 ### Here is how you use this app
 
-1. In the local host or from the Heroku link, locate to the "Scrape" button in the upper right hand corner of the navigation bar to get a list of articles
+1. In the local host or from the Heroku link [(Click Here for Heroku Link)](https://drive.google.com/file/d/1GmMf14A9U_YRc-xdTKR0KxMl_UTqqogj/view), locate to the "Scrape" button in the upper right hand corner of the navigation bar to get a list of articles
 
 ![conert this](https://github.com/jldueyusa/liri-node-app/blob/master/images/concert_this.png)
 
