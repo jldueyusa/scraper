@@ -12,7 +12,7 @@ In this app you will be able to view and leave comments on the latest news.
 
 To view a play by play instructional video by clicking the link below
 
-[Click Here](https://drive.google.com/file/d/1Mpz2VLzLgLR7AjWp1vFDwfnoMIW8NHKm/view)
+[Click Here](https://drive.google.com/file/d/1GmMf14A9U_YRc-xdTKR0KxMl_UTqqogj/view)
 
 
 ### Here is how you use this app
