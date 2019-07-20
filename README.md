@@ -24,27 +24,27 @@ To view a play by play instructional video by clicking the link below
 
 2. Select and article you would like to read and click on the "Read Article" button
 
-![spotify](https://github.com/jldueyusa/liri-node-app/blob/master/images/Spotify_this_song.png)
+![scraper Inst 2](https://github.com/jldueyusa/scraper/blob/master/public/assets/scrape2.png)
 
 3. Underneath the article, you will find an area to enter your name and a comment. After filling in these fields, click on submit.
 
-![movie](https://github.com/jldueyusa/liri-node-app/blob/master/images/movie_this.png)
+![scraper Inst 3](https://github.com/jldueyusa/scraper/blob/master/public/assets/scrape3.png)
 
 4. After you click on submit, you can see your comment posted on the same page
 
-![do what it says](https://github.com/jldueyusa/liri-node-app/blob/master/images/do_what_it_says.png)
+![scraper Inst 4](https://github.com/jldueyusa/scraper/blob/master/public/assets/scrape4.png)
 
 5. To clear the articles and comments, navigate to the "Clear Articles" button in the upper right hand corner of the navigation bar
 
-![do what it says](https://github.com/jldueyusa/liri-node-app/blob/master/images/do_what_it_says.png)
+![scraper Inst 5](https://github.com/jldueyusa/scraper/blob/master/public/assets/scrape5.png)
 
 6. After clearing the articles and comments, you will be taken back to the first page to start scraping again
 
-![do what it says](https://github.com/jldueyusa/liri-node-app/blob/master/images/do_what_it_says.png)
+![scraper Inst 6](https://github.com/jldueyusa/scraper/blob/master/public/assets/scrape6.png)
 
-7. To view the code for this app, click on the "Git Repo" button in the upper left hand corner of the navigation bar
+7. To view the code for this app, click on the "Git Repo" button in the upper right hand corner of the navigation bar
 
-![do what it says](https://github.com/jldueyusa/liri-node-app/blob/master/images/do_what_it_says.png)
+![scraper Inst 7](https://github.com/jldueyusa/scraper/blob/master/public/assets/scrape7.png)
 
 
 # Tools and Applications
